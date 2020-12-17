@@ -1,3 +1,2 @@
 # Solar_predictions
-Max Valkenburg
-Emile Knaepen
+Max Valkenburg & Emile Knaepen
